@@ -74,4 +74,5 @@ btn.addEventListener('click',function(){
     hidden.style.display='none';
     document.querySelector('#success').style.display='block';
     document.body.style.background='none';
+    
 })
